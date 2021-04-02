@@ -1,4 +1,4 @@
-var nombre = 'Sacha', apellido = 'Lifszyc'
+var nombre = 'Johann', apellido = 'Rios'
 var edad = 28
 
 edad = '28 años'
